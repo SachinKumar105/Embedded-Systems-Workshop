@@ -25,7 +25,7 @@ The AQI is an index for reporting daily air quality. It tells you how clean or p
 We use our collected data and make a AQI value and compare to the above standards to ensure a healthy environment.
 
 <span>AQI</span> The higher the AQI value, the greater the level of air pollution and the greater the health concern.
-![image](AQI.png){width="10cm"}
+![image](images/AQI.png){width="10cm"}
 
 Description
 ===========
