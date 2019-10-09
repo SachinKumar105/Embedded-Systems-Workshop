@@ -208,7 +208,11 @@ Grove - VOC and eCO2 Gas Sensor(SGP30)
 
 <span>SGP30 Pin Layout</span> ![image](images/SGP30pin.png)
 
-<span>SGP30 vs CCS811</span> ![image](images/ccs811.jpg)
+<span>SGP30 vs CCS811</span> 
+
+![image](images/ccs811.jpg)
+
+
 From a firmware perspective SGP30 is almost as easy as the CCS811. From the test data, SGP30 is way more sensitive than the CCS811. If you are in an environment where you need to know SGP30 is the one to pick. SGP30 is widely available though many channels.
 
 Technology
